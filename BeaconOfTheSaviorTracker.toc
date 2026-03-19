@@ -1,0 +1,8 @@
+## Interface: 120001
+## Title: Beacon of the Savior Tracker
+## Notes: Highlight raid/party frames with your Beacon of the Savior
+## Author: Fudriyak
+## IconTexture: Interface\AddOns\BeaconOfTheSaviorTracker\icon.tga
+## Version: 1.0
+
+BeaconOfTheSaviorTracker.lua
